@@ -5,7 +5,7 @@ mkdir ai-hospital-app frontend backend ai-model database scripts
 
 # Initialize frontend
 cd frontend
-npx create-react-app .
+npx create-react-app 
 cd ..
 
 # Initialize backend
